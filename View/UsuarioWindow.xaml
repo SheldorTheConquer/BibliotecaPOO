@@ -1,0 +1,21 @@
+﻿<Window x:Class="View.UsuarioWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Cadastro" Height="351.043" Width="300">
+    <Grid Height="137" VerticalAlignment="Top">
+        <Label Content="LOGIN:" HorizontalAlignment="Left" Height="27" Margin="19,10,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label Content="SENHA:" HorizontalAlignment="Left" Height="25" Margin="19,37,0,0" VerticalAlignment="Top" Width="83"/>
+        <TextBox x:Name= "login" HorizontalAlignment="Left" Height="22" Margin="97,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="185"/>
+        <PasswordBox x:Name="senha" HorizontalAlignment="Left" Height="22" Margin="97,40,0,0" VerticalAlignment="Top" Width="185"/>
+        <Button Content="CADASTRAR" HorizontalAlignment="Left" Height="31" Margin="182,281,0,-175" VerticalAlignment="Top" Width="100" Click="CadastrarClick"/>
+        <DataGrid Name="userList" HorizontalAlignment="Left" Height="155" Margin="19,72,0,-90" VerticalAlignment="Top" Width="263"/>
+        <Button Content="REMOVER" Foreground="Red" HorizontalAlignment="Left" Height="31" Margin="19,281,0,-175" VerticalAlignment="Top" Width="100" Click="RemoverClick"/>
+        <TextBox Name="txtId" HorizontalAlignment="Left" Height="26" Margin="65,250,0,-139" TextWrapping="Wrap"  VerticalAlignment="Top" Width="54" PreviewTextInput="NumberValidationTextBox" RenderTransformOrigin="0.08,0.577"/>
+        <Label Content="ID" Foreground="Red" HorizontalAlignment="Left" Height="26" Margin="19,250,0,-139" VerticalAlignment="Top" Width="23"/>
+
+    </Grid>
+</Window>

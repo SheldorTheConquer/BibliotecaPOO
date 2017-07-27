@@ -1,0 +1,46 @@
+C:\Users\Leonardo\Desktop\POO\2\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\20162014040016\Desktop\POO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Modelo.dll
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\20162014040016\Desktop\POO\Persistencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\20162014040016\Desktop\POO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\20162014040016\Desktop\POO\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Modelo.dll
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\agome\Desktop\POO\Persistencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agome\Desktop\POO\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\agome\Desktop\POO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\agome\Desktop\POO\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Modelo.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Modelo.dll
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\e0116\Downloads\Projeto Final\Persistencia\obj\Debug\Persistencia.pdb
+F:\Projeto Final\Persistencia\bin\Debug\Persistencia.dll
+F:\Projeto Final\Persistencia\bin\Debug\Persistencia.pdb
+F:\Projeto Final\Persistencia\bin\Debug\Modelo.dll
+F:\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.dll
+F:\Projeto Final\Persistencia\bin\Debug\Modelo.pdb
+F:\Projeto Final\Persistencia\bin\Debug\Newtonsoft.Json.xml
+F:\Projeto Final\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+F:\Projeto Final\Persistencia\obj\Debug\Persistencia.dll
+F:\Projeto Final\Persistencia\obj\Debug\Persistencia.pdb

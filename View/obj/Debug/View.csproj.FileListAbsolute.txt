@@ -1,0 +1,228 @@
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\bin\Debug\View.exe.config
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\bin\Debug\View.exe
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\bin\Debug\View.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\MainWindow.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\App.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\MainWindow.baml
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.g.resources
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.exe
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\View.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\NormalWindow.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\NormalWindow.baml
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\AdmWindow.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\AdmWindow.baml
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\UsuarioWindow.baml
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\Leonardo\Documents\Visual Studio 2017\Projects\View\View\obj\Debug\LivrosWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\AdmWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\MainWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\NormalWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\App.g.cs
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.exe
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.pdb
+C:\Users\Leonardo\Desktop\POO\2\View\bin\Debug\View.exe.config
+C:\Users\Leonardo\Desktop\POO\2\View\bin\Debug\View.exe
+C:\Users\Leonardo\Desktop\POO\2\View\bin\Debug\View.pdb
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\AdmWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\LivrosWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\MainWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\NormalWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\UsuarioWindow.baml
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.g.resources
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\POO\2\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\AdmWindow.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\MainWindow.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\NormalWindow.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\App.g.cs
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.exe
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.pdb
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\View.exe.config
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\View.exe
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\View.pdb
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Modelo.dll
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Negocio.dll
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Persistencia.dll
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Modelo.pdb
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Negocio.pdb
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Persistencia.pdb
+C:\Users\20162014040016\Desktop\POO\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\AdmWindow.baml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\LivrosWindow.baml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\MainWindow.baml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\NormalWindow.baml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\UsuarioWindow.baml
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.g.resources
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\20162014040016\Desktop\POO\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\agome\Desktop\POO\View\bin\Debug\View.exe.config
+C:\Users\agome\Desktop\POO\View\bin\Debug\View.exe
+C:\Users\agome\Desktop\POO\View\bin\Debug\View.pdb
+C:\Users\agome\Desktop\POO\View\bin\Debug\Modelo.dll
+C:\Users\agome\Desktop\POO\View\bin\Debug\Negocio.dll
+C:\Users\agome\Desktop\POO\View\bin\Debug\Persistencia.dll
+C:\Users\agome\Desktop\POO\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agome\Desktop\POO\View\bin\Debug\Modelo.pdb
+C:\Users\agome\Desktop\POO\View\bin\Debug\Negocio.pdb
+C:\Users\agome\Desktop\POO\View\bin\Debug\Persistencia.pdb
+C:\Users\agome\Desktop\POO\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\agome\Desktop\POO\View\obj\Debug\AdmWindow.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\MainWindow.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\NormalWindow.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\App.g.cs
+C:\Users\agome\Desktop\POO\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\agome\Desktop\POO\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\agome\Desktop\POO\View\obj\Debug\AdmWindow.baml
+C:\Users\agome\Desktop\POO\View\obj\Debug\LivrosWindow.baml
+C:\Users\agome\Desktop\POO\View\obj\Debug\MainWindow.baml
+C:\Users\agome\Desktop\POO\View\obj\Debug\NormalWindow.baml
+C:\Users\agome\Desktop\POO\View\obj\Debug\UsuarioWindow.baml
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.g.resources
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.exe
+C:\Users\agome\Desktop\POO\View\obj\Debug\View.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\View.exe.config
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\View.exe
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\View.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Modelo.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Negocio.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Persistencia.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Modelo.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Negocio.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Persistencia.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\AdmWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\MainWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\NormalWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\App.g.cs
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\AdmWindow.baml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\LivrosWindow.baml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\MainWindow.baml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\NormalWindow.baml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\UsuarioWindow.baml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.g.resources
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.exe
+C:\Users\Leonardo\Desktop\POO\Projeto Final\View\obj\Debug\View.pdb
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\View.exe.config
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\View.exe
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\View.pdb
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Modelo.dll
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Negocio.dll
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Persistencia.dll
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Modelo.pdb
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Negocio.pdb
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Persistencia.pdb
+C:\Users\e0116\Downloads\Projeto Final\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\AdmWindow.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\MainWindow.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\NormalWindow.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\App.g.cs
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\AdmWindow.baml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\LivrosWindow.baml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\MainWindow.baml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\NormalWindow.baml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\UsuarioWindow.baml
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.g.resources
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.exe
+C:\Users\e0116\Downloads\Projeto Final\View\obj\Debug\View.pdb
+F:\Projeto Final\View\bin\Debug\View.exe.config
+F:\Projeto Final\View\bin\Debug\View.exe
+F:\Projeto Final\View\bin\Debug\View.pdb
+F:\Projeto Final\View\bin\Debug\Modelo.dll
+F:\Projeto Final\View\bin\Debug\Negocio.dll
+F:\Projeto Final\View\bin\Debug\Persistencia.dll
+F:\Projeto Final\View\bin\Debug\Newtonsoft.Json.dll
+F:\Projeto Final\View\bin\Debug\Modelo.pdb
+F:\Projeto Final\View\bin\Debug\Negocio.pdb
+F:\Projeto Final\View\bin\Debug\Persistencia.pdb
+F:\Projeto Final\View\bin\Debug\Newtonsoft.Json.xml
+F:\Projeto Final\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+F:\Projeto Final\View\obj\Debug\AdmWindow.g.cs
+F:\Projeto Final\View\obj\Debug\LivrosWindow.g.cs
+F:\Projeto Final\View\obj\Debug\MainWindow.g.cs
+F:\Projeto Final\View\obj\Debug\NormalWindow.g.cs
+F:\Projeto Final\View\obj\Debug\UsuarioWindow.g.cs
+F:\Projeto Final\View\obj\Debug\App.g.cs
+F:\Projeto Final\View\obj\Debug\View_MarkupCompile.cache
+F:\Projeto Final\View\obj\Debug\View_MarkupCompile.lref
+F:\Projeto Final\View\obj\Debug\AdmWindow.baml
+F:\Projeto Final\View\obj\Debug\LivrosWindow.baml
+F:\Projeto Final\View\obj\Debug\MainWindow.baml
+F:\Projeto Final\View\obj\Debug\NormalWindow.baml
+F:\Projeto Final\View\obj\Debug\UsuarioWindow.baml
+F:\Projeto Final\View\obj\Debug\View.g.resources
+F:\Projeto Final\View\obj\Debug\View.Properties.Resources.resources
+F:\Projeto Final\View\obj\Debug\View.csproj.GenerateResource.Cache
+F:\Projeto Final\View\obj\Debug\View.exe
+F:\Projeto Final\View\obj\Debug\View.pdb
+F:\Projeto Final\View\obj\Debug\LogWindow.g.cs
+F:\Projeto Final\View\obj\Debug\LogWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\View.exe.config
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\View.exe
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\View.pdb
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Modelo.dll
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Negocio.dll
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Persistencia.dll
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Modelo.pdb
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Negocio.pdb
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Persistencia.pdb
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\AdmWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\LivrosWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\LogWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\MainWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\NormalWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\UsuarioWindow.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\App.g.cs
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\AdmWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\LivrosWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\LogWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\MainWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\NormalWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\UsuarioWindow.baml
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.g.resources
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.exe
+C:\Users\Jhonatas Albuquerque\Desktop\PROJETO POO\View\obj\Debug\View.pdb

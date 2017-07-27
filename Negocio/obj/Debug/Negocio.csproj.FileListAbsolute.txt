@@ -1,0 +1,55 @@
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Negocio.dll
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Modelo.dll
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Persistencia.dll
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Modelo.pdb
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\20162014040016\Desktop\POO\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\20162014040016\Desktop\POO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\20162014040016\Desktop\POO\Negocio\obj\Debug\Negocio.dll
+C:\Users\20162014040016\Desktop\POO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Negocio.dll
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Modelo.dll
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Persistencia.dll
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Modelo.pdb
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\agome\Desktop\POO\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agome\Desktop\POO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agome\Desktop\POO\Negocio\obj\Debug\Negocio.dll
+C:\Users\agome\Desktop\POO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Modelo.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Persistencia.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Modelo.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\Leonardo\Desktop\POO\Projeto Final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Negocio.dll
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Modelo.dll
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Persistencia.dll
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Modelo.pdb
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\e0116\Downloads\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e0116\Downloads\Projeto Final\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\e0116\Downloads\Projeto Final\Negocio\obj\Debug\Negocio.dll
+C:\Users\e0116\Downloads\Projeto Final\Negocio\obj\Debug\Negocio.pdb
+F:\Projeto Final\Negocio\bin\Debug\Negocio.dll
+F:\Projeto Final\Negocio\bin\Debug\Negocio.pdb
+F:\Projeto Final\Negocio\bin\Debug\Modelo.dll
+F:\Projeto Final\Negocio\bin\Debug\Persistencia.dll
+F:\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.dll
+F:\Projeto Final\Negocio\bin\Debug\Modelo.pdb
+F:\Projeto Final\Negocio\bin\Debug\Persistencia.pdb
+F:\Projeto Final\Negocio\bin\Debug\Newtonsoft.Json.xml
+F:\Projeto Final\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\Projeto Final\Negocio\obj\Debug\Negocio.dll
+F:\Projeto Final\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="View.AdmWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Acervo" Height="330" Width="471">
+    <Grid Margin="0,42,0,0">
+        <Button Content="ATUALIZAR" HorizontalAlignment="Left" Height="29" Margin="376,-13,0,0" VerticalAlignment="Top" Width="77" Click="AtualizarClick"/>
+        <DataGrid Name="list" HorizontalAlignment="Left" Height="230" Margin="10,21,0,0" VerticalAlignment="Top" Width="443" IsReadOnly="True" />
+        <Menu HorizontalAlignment="Left" Height="20" Margin="0,-44,0,0" VerticalAlignment="Top" Width="463">
+            <MenuItem Header="Cadastro">
+                <MenuItem Header="Usuarios" Click="MenuItem_Click"></MenuItem>
+                <MenuItem Header="Livros" Click="MenuItem_Click_1"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Log" Click="logClick">
+                
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

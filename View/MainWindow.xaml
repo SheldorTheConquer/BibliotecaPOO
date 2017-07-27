@@ -1,0 +1,18 @@
+﻿<Window x:Class="View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Biblioteca" Background="Gray" Height="225" Width="375.5">
+    <Grid Margin="0,0,0,-4">
+        <Label Content="LOGIN" FontSize="20" HorizontalAlignment="Left" Height="38" Margin="40,26,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Content="SENHA" FontSize="20" HorizontalAlignment="Left" Height="38" Margin="40,86,0,0" VerticalAlignment="Top" Width="76"/>
+        <TextBox Name="loginTxt"  HorizontalAlignment="Left" FontSize="20" Height="38" Margin="134,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="197"/>
+        <PasswordBox Name="passTxt" HorizontalAlignment="Left" FontSize="20" Height="38" Margin="134,86,0,0" VerticalAlignment="Top" Width="197"/>
+        <Button Content="ENTRE" FontSize="18" HorizontalAlignment="Left" Height="39" Margin="194,139,0,0" VerticalAlignment="Top" Width="137" Click="Button_Click"/>
+
+
+    </Grid>
+</Window>
